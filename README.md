@@ -1,2 +1,2 @@
-# ANN_Prediksi_Banjir_Di_Kabupaten_Bandung
-Feedforward ANN dipilih karena keunggulannya dalam menangani data yang kompleks dan menghasilkan prediksi akurat. Penelitian ini diharapkan dapat membantu pemerintah dan masyarakat dalam mengurangi dampak banjir melalui kebijakan dan infrastruktur yang lebih tepat sasaran.
+#Implementasi Algoritma Random Forest
+Hasil dari evaluasi random forest ini memiliki perbandingan antara model awal random forest dengan model tuning. Fungsi dari model tuning ini melakukan hyperparameter tuning untuk mencari kombinasi terbaik parameter model. PyCaret secara otomatis mencoba berbagai kombinasi parameter menggunakan Grid Search atau metode lain. Model di uji ulang dengan stratified K-Fold (10 folds).
